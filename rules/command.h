@@ -13,6 +13,7 @@
 #include <sys/un.h>
 #include <sys/wait.h>
 #include <unistd.h>
+#include <sys/sysmacros.h>
 
 #include "../common.h"
 #include "../uevent.h"

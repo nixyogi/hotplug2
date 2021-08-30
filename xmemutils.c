@@ -1,5 +1,6 @@
 #include <stdlib.h>
 #include <stdio.h>
+#include "xmemutils.h"
 
 /**
  * A malloc wrapper. Exits if no memory.
